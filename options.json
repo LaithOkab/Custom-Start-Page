@@ -10,15 +10,15 @@
     ],
     "links":[
         {"name":"Canvas", "link":"https://hse.instructure.com"},
-        {"name":"FlightRadar24", "link":"https://flightradar24.com"},
         {"name":"Google","link":"https://google.com"},
         {"name":"Wikipedia", "link" : "https://Wikipedia.org"},
         {"name":"Skyward", "link": "https://sis.hse.k12.in.us/scripts/wsisa.dll/WService=wsEAplus/seplog01.w"},
-        {"name":"ESPN", "link":"https://espn.com"},
-        {"name":"NBC News","link":"https://nbcnews.com"},
-        {"name":"NFL.com","link":"https://nfl.com"},
-        {"name":"Spaceflight Now", "link":"https://spaceflightnow.com"},
-        {"name":"SpaceNews", "link":"https://spacenews.com"}
+        {"name":"CS50", "link": "https://cs50.harvard.edu/x/2023/"},
+        {"name":"CS50 Codespace", "link": "https://laithokab-code50-100006053-97xgjwjrj2976q.github.dev/"},
+        {"name":"W3Schools", "link": "https://www.w3schools.com/"},
+        {"name":"Youtube", "link": "https://www.youtube.com/"},
+        {"name":"Gmail", "link": "https://mail.google.com/mail/u/1/#inbox"},
+        
     ]
     
 }
